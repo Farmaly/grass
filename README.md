@@ -1,4 +1,5 @@
 # Grass Farming Bot
+![изображение](https://github.com/user-attachments/assets/eb736192-5e06-478a-8d41-71aa98a9cdb5)
 
 **Полностью автоматизированный софт для фарма Grass**
 
