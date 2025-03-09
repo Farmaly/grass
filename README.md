@@ -15,22 +15,13 @@
 ## 🚀 Установка и запуск:
 
 1. Установите **Node.js** (если не установлен).
-2. Скачайте репозиторий и установите зависимости:
-   ```sh
-   git clone https://github.com/your-repo/grass-farm-bot.git
-   cd grass-farm-bot
-   npm install
-   ```
-3. Укажите **логин:пароль** в файле настроек.
-4. Заполните **proxy.txt** вашими прокси.
-5. Запустите софт:
-   ```sh
-   node index.js
-   ```
+2. Укажите **логин:пароль** в файле настроек.
+3. Заполните **proxy.txt** вашими прокси.
+4. Запустите софт
 
 ## 📞 Контакты
 
-Если у вас есть вопросы или нужна поддержка, пишите в Telegram: [@timka\_ne](https://t.me/timka_ne)
+По поводу покупки или по любым вопросам пишите (цена сладкая, а софт очень стабильный, поверьте): [@timka\_ne](https://t.me/timka_ne)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -51,18 +42,9 @@ This tool perfectly emulates the behavior of the original Grass extension, ensur
 ## 🚀 Installation & Setup:
 
 1. Install **Node.js** (if not already installed).
-2. Clone the repository and install dependencies:
-   ```sh
-   git clone https://github.com/your-repo/grass-farm-bot.git
-   cd grass-farm-bot
-   npm install
-   ```
-3. Enter your **login:password** in the configuration file.
-4. Fill in **proxy.txt** with your proxies.
-5. Start the software:
-   ```sh
-   node index.js
-   ```
+2. Enter your **login:password** in the configuration file.
+3. Fill in **proxy.txt** with your proxies.
+4. Start the software
 
 ## 📞 Contact
-If you have any questions or need support, reach out on Telegram: [@timka_ne](https://t.me/timka_ne)
+If you have any questions or want to purchase, feel free to message me (the price is sweet, and the software is rock-solid, trust me): [@timka_ne](https://t.me/timka_ne)
